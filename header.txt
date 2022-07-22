@@ -1,2 +1,2 @@
-some text 2
+some main text 2
 changes in main
